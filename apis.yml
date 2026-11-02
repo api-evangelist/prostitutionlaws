@@ -1,0 +1,29 @@
+aid: prostitutionlaws
+name: Prostitution Laws
+description: 'Prostitution Laws is a company surfaced via the API Evangelist harvest backlog (source:
+  new-submission) and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/prostitutionlaws/apis.yml
+x-type: company
+x-source: harvest:new-submission
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-02'
+modified: '2026-11-02'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://prostitutionlaws.org/
+- type: Documentation
+  url: https://prostitutionlaws.org/developers/
+x-submission-notes: 'Legal reference on 196 countries, CC BY 4.0, OpenAPI 3.1, MCP, A2A. Kin approved
+  listing 2026-11-02: reference, not a services directory.'
+x-submission-probe: openapi.json 200
+x-submitted-by: editor@prostitutionlaws.org (apis.io/add, 2026-11-02)
